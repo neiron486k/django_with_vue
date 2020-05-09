@@ -3,6 +3,7 @@ venv/
 *.py[cod]
 __pycache__/
 .coverage
+db.sqlite3
 
 ## IDE
 .idea
