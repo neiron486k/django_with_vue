@@ -1,0 +1,9 @@
+## COMMON
+venv/
+*.py[cod]
+__pycache__/
+.coverage
+
+## IDE
+.idea
+.vscode
